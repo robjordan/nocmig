@@ -1,0 +1,11 @@
+[Unit]
+Description=Record from the USB audio device
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/bin/bash /home/pi/start-recording.sh > /home/pi/recording.log
+
+[Install]
+WantedBy=multi-user.target
+
