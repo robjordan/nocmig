@@ -1,7 +1,6 @@
 #! /bin/bash
 # set -x 
-# SOURCEDIR=/media/jordan/recordings
-SOURCEDIR=/home/jordan/Music/nocmig/e222daa8-865f-44b5-8322-ff82d0c95284
+SOURCEDIR=/media/jordan/recordings
 BACKUPDIR=/media/nas/backup/nocmig
 DESTDIR=/home/jordan/Music/nocmig/output
 DESTDIR2=/home/jordan/Music/nocmig/output-loud
