@@ -1,4 +1,4 @@
-Utilities to help with processing nocturnal migration recordings
+# Utilities to help with processing nocturnal migration recordings
 
 process-recordings.sh: 
   Convert WAV files to FLAC, create spectrograms, rename output folder and zip
@@ -6,9 +6,10 @@ process-recordings.sh:
 nocmig-insta.mp4:
   Short video illustrating the recording equipment
 
+# System Description
 Someone asked for a description of the system. I wrote this in 2019, things may have changed since then:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![sketch diagram](https://github.com/robjordan/nocmig/blob/master/docs/nocmig-system.jpg?raw=true)
 
 I bought the dish on ebay for £56. I think the bloke selling had a batch made because he's an enthusiast for recording cricket! They seem to work quite well and a lot less expensive than the fully commercial ones sold for birding. Obviously it needs a tripod.
 
